@@ -1,15 +1,40 @@
-//
-//  main.cpp
-//  ShildtBook
-//
-//  Created by gelserkirchen on 18.04.2020.
-//  Copyright © 2020 gelserkirchen. All rights reserved.
-//
+// ПУЗЫРЬКОВАЯ СОРТИРОВКА
 
-#include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
-}
+//
+//#include <iostream>
+//using namespace std;
+//
+//int main() {
+//
+//    cout << "before shaking" << endl;
+//
+//    int array[10], tmp;
+//    for (int i = 0; i < 10; i++) {
+//        array[i] = rand();
+//        cout << array[i] << endl;
+//    }
+//
+//    for (int i = 1; i < 10; i++) {
+//        for(int j = 9; j > i - 1; j--){
+//            if (array[j] < array[j - 1]) {
+//                tmp = array[j - 1];
+//                array[j - 1] = array[j];
+//                array[j] = tmp;
+//            }
+//        }
+//    }
+//    
+//    cout << endl;
+//    cout << "after shaking" << endl;
+//
+//
+//    for (int i = 0; i < 10; i++) {
+//            cout << array[i] << endl;
+//        }
+//
+//
+//
+//    return 0;
+//}
+//
+//

@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		D1C54BCD244AEAB000ADDE88 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D1C54BCC244AEAB000ADDE88 /* main.cpp */; };
+		D1C54BD5244B38EE00ADDE88 /* BaseOfDataOfStaffShildtBook.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D1C54BD3244B38EE00ADDE88 /* BaseOfDataOfStaffShildtBook.cpp */; };
+		D1C54BD8244B992100ADDE88 /* Ukazateli.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D1C54BD6244B992100ADDE88 /* Ukazateli.cpp */; };
+		D1C54BDA244C9CA800ADDE88 /* Leksema.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D1C54BD9244C9CA800ADDE88 /* Leksema.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,10 @@
 /* Begin PBXFileReference section */
 		D1C54BC9244AEAB000ADDE88 /* ShildtBook */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ShildtBook; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1C54BCC244AEAB000ADDE88 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D1C54BD3244B38EE00ADDE88 /* BaseOfDataOfStaffShildtBook.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BaseOfDataOfStaffShildtBook.cpp; sourceTree = "<group>"; };
+		D1C54BD6244B992100ADDE88 /* Ukazateli.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Ukazateli.cpp; sourceTree = "<group>"; };
+		D1C54BD7244B992100ADDE88 /* Ukazateli.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Ukazateli.hpp; sourceTree = "<group>"; };
+		D1C54BD9244C9CA800ADDE88 /* Leksema.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Leksema.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +65,10 @@
 			isa = PBXGroup;
 			children = (
 				D1C54BCC244AEAB000ADDE88 /* main.cpp */,
+				D1C54BD3244B38EE00ADDE88 /* BaseOfDataOfStaffShildtBook.cpp */,
+				D1C54BD6244B992100ADDE88 /* Ukazateli.cpp */,
+				D1C54BD7244B992100ADDE88 /* Ukazateli.hpp */,
+				D1C54BD9244C9CA800ADDE88 /* Leksema.cpp */,
 			);
 			path = ShildtBook;
 			sourceTree = "<group>";
@@ -119,6 +130,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1C54BD5244B38EE00ADDE88 /* BaseOfDataOfStaffShildtBook.cpp in Sources */,
+				D1C54BD8244B992100ADDE88 /* Ukazateli.cpp in Sources */,
+				D1C54BDA244C9CA800ADDE88 /* Leksema.cpp in Sources */,
 				D1C54BCD244AEAB000ADDE88 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
