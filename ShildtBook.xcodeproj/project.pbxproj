@@ -11,6 +11,7 @@
 		D16B6D782450AA1300EB2779 /* Union.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D16B6D772450AA1300EB2779 /* Union.cpp */; };
 		D16B6D7A24555ACF00EB2779 /* ReturnAnObjectFromFunc.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D16B6D7924555ACF00EB2779 /* ReturnAnObjectFromFunc.cpp */; };
 		D16B6D7C2455932900EB2779 /* SecondPartOfReturnObj.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D16B6D7B2455932900EB2779 /* SecondPartOfReturnObj.cpp */; };
+		D16B6D7E24569D5400EB2779 /* OverrideBaseOperators.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D16B6D7D24569D5400EB2779 /* OverrideBaseOperators.cpp */; };
 		D1C54BCD244AEAB000ADDE88 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D1C54BCC244AEAB000ADDE88 /* main.cpp */; };
 		D1C54BD5244B38EE00ADDE88 /* BaseOfDataOfStaffShildtBook.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D1C54BD3244B38EE00ADDE88 /* BaseOfDataOfStaffShildtBook.cpp */; };
 		D1C54BD8244B992100ADDE88 /* Pointers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D1C54BD6244B992100ADDE88 /* Pointers.cpp */; };
@@ -38,6 +39,7 @@
 		D16B6D772450AA1300EB2779 /* Union.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Union.cpp; sourceTree = "<group>"; };
 		D16B6D7924555ACF00EB2779 /* ReturnAnObjectFromFunc.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ReturnAnObjectFromFunc.cpp; sourceTree = "<group>"; };
 		D16B6D7B2455932900EB2779 /* SecondPartOfReturnObj.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SecondPartOfReturnObj.cpp; sourceTree = "<group>"; };
+		D16B6D7D24569D5400EB2779 /* OverrideBaseOperators.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OverrideBaseOperators.cpp; sourceTree = "<group>"; };
 		D1C54BC9244AEAB000ADDE88 /* ShildtBook */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ShildtBook; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1C54BCC244AEAB000ADDE88 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		D1C54BD3244B38EE00ADDE88 /* BaseOfDataOfStaffShildtBook.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BaseOfDataOfStaffShildtBook.cpp; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				D16B6D772450AA1300EB2779 /* Union.cpp */,
 				D16B6D7924555ACF00EB2779 /* ReturnAnObjectFromFunc.cpp */,
 				D16B6D7B2455932900EB2779 /* SecondPartOfReturnObj.cpp */,
+				D16B6D7D24569D5400EB2779 /* OverrideBaseOperators.cpp */,
 			);
 			path = ShildtBook;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				D1C54BDC244CF0B200ADDE88 /* Randomiser.cpp in Sources */,
 				D1C54BD8244B992100ADDE88 /* Pointers.cpp in Sources */,
 				D1C54BDA244C9CA800ADDE88 /* Leksema.cpp in Sources */,
+				D16B6D7E24569D5400EB2779 /* OverrideBaseOperators.cpp in Sources */,
 				D16B6D7C2455932900EB2779 /* SecondPartOfReturnObj.cpp in Sources */,
 				D1C54BDE244D6EE900ADDE88 /* Substr.cpp in Sources */,
 				D1C54BCD244AEAB000ADDE88 /* main.cpp in Sources */,
